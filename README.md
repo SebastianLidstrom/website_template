@@ -1,1 +1,1 @@
-# A basic HTML and CSS website.
+# A basic HTML and CSS website template.
