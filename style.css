@@ -1,0 +1,40 @@
+#background {
+    margin: 0px 0px;
+    size: cover;
+}
+
+#textbackground {
+    background-color: rgba(255, 255, 255, 0.75);
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 70px;
+}
+
+#text {
+    max-width: 700px;
+    opacity: 100%;
+}
+
+#profile_picture {
+    float: right;
+    position: relative;
+    max-width: 300px;
+}
+
+#about {
+    float: left;
+    position: relative;
+    width: 500px;
+}
+
+body {
+    background: url(background.jpg) top left / cover no-repeat fixed;
+
+    p {
+        font-size: 20px;
+    }
+
+    ul {
+        font-size: 18px;
+    }
+}
